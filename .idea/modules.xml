@@ -2,6 +2,8 @@
 <project version="4">
   <component name="ProjectModuleManager">
     <modules>
+      <module fileurl="file://$PROJECT_DIR$/Classes_Objects_in_Java/Classes_Objects_in_Java.iml" filepath="$PROJECT_DIR$/Classes_Objects_in_Java/Classes_Objects_in_Java.iml" />
+      <module fileurl="file://$PROJECT_DIR$/InheritanceInJava/InheritanceInJava.iml" filepath="$PROJECT_DIR$/InheritanceInJava/InheritanceInJava.iml" />
       <module fileurl="file://$PROJECT_DIR$/../Java_Programmingj/JavaNumberPrograms/JavaNumberPrograms.iml" filepath="$PROJECT_DIR$/../Java_Programmingj/JavaNumberPrograms/JavaNumberPrograms.iml" />
       <module fileurl="file://$PROJECT_DIR$/Java_Programming.iml" filepath="$PROJECT_DIR$/Java_Programming.iml" />
     </modules>
